@@ -214,5 +214,3 @@ enterprise-agentic-ai-platform/
 ├── docker-compose.yml  # Full local stack (11 services)
 └── Makefile            # All dev commands
 ```
-#   e n t e r p r i s e - a g e n t i c - a i - p l a t f o r m  
- 
